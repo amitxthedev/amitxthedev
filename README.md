@@ -35,22 +35,22 @@ Core Concepts: OOP, Data Structures, DBMS
 A full-stack online shopping platform with authentication, cart, checkout, and order management.
 
 Tech: React + Spring Boot + MySQL  
-Repository: https://github.com/yourusername/ecommerce-project
+Repository: https://github.com/amitxthedev/ecommerce-project
 
 
 ### Course / Product Selling Platform
 A platform to sell digital courses/products with secure login and admin dashboard.
 
 Tech: React + Spring Boot + MySQL  
-Repository: https://github.com/yourusername/selling-platform
+Repository: https://github.com/amitxthedev/selling-platform
 
 ---
 
 ## GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=amitxthedev&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitxthedev&layout=compact)
 
 ---
 
