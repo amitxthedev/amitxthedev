@@ -48,11 +48,10 @@ Repository: https://github.com/amitxthedev/selling-platform
 
 ## GitHub Statistics
 
-## GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=amitxthedev&show_icons=true&cache_seconds=1800" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=amitxthedev&show_icons=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitxthedev&layout=compact&cache_seconds=1800" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitxthedev&layout=compact" height="160"/>
 
 
 
