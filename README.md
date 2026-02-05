@@ -1,16 +1,61 @@
-## Hi there 👋
+# Amit Rajwar
 
-<!--
-**amitxthedev/amitxthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Java Developer  
+Spring Boot | React | MySQL
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a 3rd year Computer Science student who enjoys building complete web applications from frontend to backend.  
+I primarily work with Spring Boot for backend development and React for frontend interfaces.  
+I like solving real-world problems and building clean, scalable systems.
+
+---
+
+## Tech Stack
+
+Languages: Java, JavaScript, SQL  
+
+Frontend: React.js, HTML, CSS  
+
+Backend: Spring Boot, REST APIs, JWT Authentication  
+
+Database: MySQL  
+
+Tools: Git, GitHub, Postman, Maven, IntelliJ, VS Code  
+
+Core Concepts: OOP, Data Structures, DBMS
+
+---
+
+## Projects
+
+### E-Commerce Web Application
+A full-stack online shopping platform with authentication, cart, checkout, and order management.
+
+Tech: React + Spring Boot + MySQL  
+Repository: https://github.com/yourusername/ecommerce-project
+
+
+### Course / Product Selling Platform
+A platform to sell digital courses/products with secure login and admin dashboard.
+
+Tech: React + Spring Boot + MySQL  
+Repository: https://github.com/yourusername/selling-platform
+
+---
+
+## GitHub Statistics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+---
+
+## Contact
+
+Email: amitxrajwar@gmail.com  
+Phone: +91 6296913508  
+LinkedIn: Add your link here
