@@ -7,9 +7,12 @@ Spring Boot | React | MySQL
 
 ## About Me
 
-I am a 3rd year Computer Science student who enjoys building complete web applications from frontend to backend.  
-I primarily work with Spring Boot for backend development and React for frontend interfaces.  
-I like solving real-world problems and building clean, scalable systems.
+My journey into development started with curiosity about how websites work.  
+Today, I build full stack applications using Spring Boot, React, and MySQL.
+
+I enjoy creating complete systems — writing backend logic, designing databases, and building user-friendly frontends.  
+I believe the best way to learn is by building real projects and solving real problems.
+
 
 ---
 
