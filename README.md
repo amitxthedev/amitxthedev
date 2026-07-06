@@ -16,7 +16,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/aboutdotme/0EA5E9" width="22"/> About Me
+## About Me
 
 I'm a **Full Stack Java Developer** passionate about building scalable, production-ready web applications. I design clean REST APIs, build responsive React frontends, and optimize database performance.
 
@@ -24,7 +24,7 @@ Currently focused on **Spring Boot backend architecture** while continuously imp
 
 ---
 
-## <img src="https://cdn.simpleicons.org/devbox/0EA5E9" width="22"/> Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,js,html,css,git,github,postman,maven,vscode,idea" />
@@ -41,20 +41,16 @@ Currently focused on **Spring Boot backend architecture** while continuously imp
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/0EA5E9" width="22"/> GitHub Analytics
+## GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitxthedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitxthedev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitxthedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitxthedev&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitxthedev&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" />
-</p>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=amitxthedev&theme=algolia&row=1&column=6&margin-w=15&margin-h=15)
 
 ---
 
-## <img src="https://cdn.simpleicons.org/openjdk/0EA5E9" width="22"/> Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -125,7 +121,7 @@ Currently focused on **Spring Boot backend architecture** while continuously imp
 
 ---
 
-## <img src="https://cdn.simpleicons.org/target/0EA5E9" width="22"/> Current Focus
+## Current Focus
 
 <ul>
   <li>Building production-ready Spring Boot applications with clean architecture</li>
@@ -137,7 +133,7 @@ Currently focused on **Spring Boot backend architecture** while continuously imp
 
 ---
 
-## <img src="https://cdn.simpleicons.org/linkedin/0EA5E9" width="22"/> Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:amitxrajwar@gmail.com">
