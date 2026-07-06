@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Amit Rajwar Banner" width="100%" style="border-radius: 12px;" />
-</p>
-
-<p align="center">
-  <img src="logo.png" alt="Logo" width="80" style="border-radius: 16px;" />
-</p>
-
 <h1 align="center">Amit Rajwar</h1>
 
 <h3 align="center">Full Stack Java Developer  &bull;  Spring Boot  &bull;  React</h3>
