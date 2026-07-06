@@ -43,10 +43,19 @@ Currently focused on **Spring Boot backend architecture** while continuously imp
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitxthedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitxthedev&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/amitxthedev?style=for-the-badge&logo=github&color=0EA5E9&label=Followers" />
+  <img src="https://img.shields.io/github/stars/amitxthedev?affiliations=OWNER&style=for-the-badge&logo=github&color=0EA5E9&label=Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=0EA5E9&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/amitxthedev" />
+</p>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=amitxthedev&theme=algolia&row=1&column=6&margin-w=15&margin-h=15)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
