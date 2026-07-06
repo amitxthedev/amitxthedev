@@ -82,16 +82,16 @@ Currently focused on **Spring Boot backend architecture** while continuously imp
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">E-Commerce Platform</h3>
+      <h3 align="center">E-Notes Banao</h3>
       <p align="center">
-        <strong>Full-Stack Shopping Application</strong><br/><br/>
-        Modern e-commerce platform with authentication, shopping cart, product management, checkout flow, order tracking, and responsive UI built with Spring Boot backend and React frontend.
+        <strong>Notes Management Web App</strong><br/><br/>
+        A web application for creating, organizing, and managing notes with a clean interface and secure user authentication built with Spring Boot.
       </p>
       <p align="center">
-        <strong>Stack:</strong> React, Spring Boot, MySQL
+        <strong>Stack:</strong> Spring Boot, MySQL
       </p>
       <p align="center">
-        <a href="https://github.com/amitxthedev/ecommerce-project">
+        <a href="https://github.com/amitxthedev/E-Notes-Banao-WebApp">
           <img src="https://img.shields.io/badge/View_Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -99,31 +99,31 @@ Currently focused on **Spring Boot backend architecture** while continuously imp
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Digital Selling Platform</h3>
+      <h3 align="center">CRUD Spring Boot</h3>
       <p align="center">
-        <strong>Course & Product Sales Portal</strong><br/><br/>
-        A secure platform for selling digital products and courses with JWT authentication, admin dashboard, product management, and secure REST APIs with responsive React UI.
-      </p>
-      <p align="center">
-        <strong>Stack:</strong> React, Spring Boot, MySQL
-      </p>
-      <p align="center">
-        <a href="https://github.com/amitxthedev/selling-platform">
-          <img src="https://img.shields.io/badge/View_Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">E-Notes Banao</h3>
-      <p align="center">
-        <strong>Notes Management Web App</strong><br/><br/>
-        A web application for creating, organizing, and managing notes with a clean interface and secure user authentication.
+        <strong>CRUD Operations App</strong><br/><br/>
+        A clean implementation of CRUD (Create, Read, Update, Delete) operations using Spring Boot with RESTful API design and database integration.
       </p>
       <p align="center">
         <strong>Stack:</strong> Spring Boot, MySQL
       </p>
       <p align="center">
-        <a href="https://github.com/amitxthedev/E-Notes-Banao-WebApp">
+        <a href="https://github.com/amitxthedev/CRUD-USING-SPRINGBOOT">
+          <img src="https://img.shields.io/badge/View_Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Gym Landing Page</h3>
+      <p align="center">
+        <strong>Fitness Website Landing Page</strong><br/><br/>
+        A modern, responsive landing page for a gym/fitness brand with sleek UI design, smooth animations, and mobile-first layout.
+      </p>
+      <p align="center">
+        <strong>Stack:</strong> HTML, CSS, JavaScript
+      </p>
+      <p align="center">
+        <a href="https://github.com/amitxthedev/gym-landing">
           <img src="https://img.shields.io/badge/View_Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
