@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=26&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+Developer;REST+API+Architect;Building+Production+Apps;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=26&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+Developer;REST+API+Architect;Building+Production+Apps;Always+Learning+%26+Building" />
 </p>
 
 ---
@@ -49,7 +49,7 @@ Currently focused on **Spring Boot backend architecture** while continuously imp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitxthedev&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=amitxthedev&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
