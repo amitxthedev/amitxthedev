@@ -49,6 +49,10 @@ Currently focused on **Spring Boot backend architecture** while continuously imp
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=amitxthedev&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amitxthedev&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
