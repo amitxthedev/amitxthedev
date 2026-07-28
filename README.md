@@ -58,7 +58,6 @@ Currently focused on **Spring Boot backend architecture** while continuously imp
 </p>
 
 ---
-
 ## Featured Projects
 
 <table>
